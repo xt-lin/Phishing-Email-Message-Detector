@@ -1,0 +1,18 @@
+From: PayPal Security <security@paypa1-alerts.xyz>
+Reply-To: support@totally-legit-mail.top
+To: user@example.com
+Subject: URGENT: Your account has been suspended
+
+Dear Customer,
+
+We have detected unusual activity on your account. Your account has been
+suspended and you must verify your identity immediately to avoid permanent
+closure!!!
+
+Click here to confirm your password and restore access:
+http://paypa1-secure-login.xyz/verify?user=12345
+
+Failure to respond within 24 hours will result in permanent suspension.
+
+Thank you,
+PayPal Security Team

@@ -1,0 +1,9 @@
+From: Jordan <jordan@example.com>
+To: you@example.com
+Subject: Lunch tomorrow?
+
+Hey! Are we still on for lunch tomorrow at noon? Let me know what sounds good,
+I was thinking the taco place on 5th.
+
+See you then,
+Jordan
